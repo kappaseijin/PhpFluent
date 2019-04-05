@@ -2,7 +2,7 @@
 /**
  * Example uses for Fluent.
  */
-include_once './Fluent.php';
+include_once 'src/Fluent.php';
 
 class Main
 {
